@@ -1,0 +1,62 @@
+ls
+ls -a  [includes hidden files]
+ls -l  [includes more detail]
+ls -al [hidden files + more detail]
+
+cd /
+cd ..
+cd -
+
+mkdir FOLDER
+
+rm 
+rm -r [removes folder]
+
+cd
+cd -r [copies folder]
+
+mv folder folder2 [RENAME]
+mv folder folder2 [MOVE folder INTO folder2]
+
+cat
+
+grep
+
+
+|
+
+
+========================
+
+echo "Hello" > Dosya
+echo "Hi" >> Dosya
+
+ls [12]* Get all files that start with 1 or 2
+
+chown user:group Dosya
+chmod 777 dosya
+/*permission mode = sudo*/
+
+
+========================
+
+ps -aux
+ps -ef
+htop
+
+kill -9 PID
+
+ip
+
+netstat
+netstat -tulnp  [VIEW OPEN PORTS]
+ss
+
+ping
+tcpdump
+
+dig
+nslookup
+
+=========================
+
